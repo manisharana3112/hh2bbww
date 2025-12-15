@@ -1,6 +1,6 @@
 # HH → bbWW
 
-Analysis based on [columnflow](https://github.com/uhh-cms/columnflow), [law](https://github.com/riga/law) and [order](https://github.com/riga/order).
+Analysis based on [columnflow](https://github.com/uhh-cms/columnflow), [law](https://github.com/riga/law) and [order](https://github.com/riga/order), as a helping framework for XtoYHtobbWW.
 
 
 ## Quickstart
@@ -10,7 +10,7 @@ They might require a **valid voms proxy** for accessing input data.
 
 ```shell
 # clone the project
-git clone --recursive git@github.com:uhh-cms/hh2bbww.git
+git clone --recursive git@github.com:manisharana3112/hh2bbww.git
 cd hh2bbww
 
 # source the setup and store decisions in .setups/dev.sh (arbitrary name)
